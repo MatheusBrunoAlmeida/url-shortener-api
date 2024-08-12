@@ -8,7 +8,7 @@
   PostgreSQL: Banco de dados relacional.
   Docker: Para executar o banco de dados PostgreSQL.
   JWT: Para autenticação.
-  
+
 # Requisitos
   ode.js (v14 ou superior)
   ocker (opcional, para rodar o banco de dados PostgreSQL)
