@@ -19,7 +19,7 @@
 # Configuração do Ambiente
   1 - Clone o Repositório
 
-  git clone https://github.com/seu-usuario/url-shortener-api.git
+  git clone https://github.com/MatheusBrunoAlmeida/url-shortener-api.git
   cd url-shortener-api
 
   2 -Instale as Dependências
